@@ -1,1 +1,1 @@
-console.log("Как интересно!");
+!function(){"use strict";var e=document.createElement("h1");e.textContent="fkjhgh!",document.querySelector("#root").append(e)}();
